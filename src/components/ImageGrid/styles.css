@@ -29,6 +29,9 @@ img {
     object-fit: cover;
     border-radius: 2px;
 }
+a{
+     border-radius: 2px;
+}
 
 .item-1 {
     grid-row: span 1;
