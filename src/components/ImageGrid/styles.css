@@ -28,9 +28,11 @@ img {
     height: 100%;
     object-fit: cover;
     border-radius: 2px;
+    padding: 5px;
+    background-color: aliceblue;
 }
-a{
-     border-radius: 2px;
+a {
+    border-radius: 2px;
 }
 
 .item-1 {
